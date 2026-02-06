@@ -1,0 +1,5 @@
+name: AI Day One Toolkit
+type: module
+description: 'Practical AI prompt pack utilities for Drupal CMS 2.0 content workflows.'
+core_version_requirement: '^10 || ^11'
+package: 'AI'

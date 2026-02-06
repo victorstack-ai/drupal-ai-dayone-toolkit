@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * AI Day One Toolkit module hooks.
+ */
+
+// Intentionally empty. This module ships utility classes only.
